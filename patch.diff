@@ -1,0 +1,22 @@
+From a469f02227b310c4c2383c7a6f1676083b0664c6 Mon Sep 17 00:00:00 2001
+From: Mario Petrovic <m.petrovic@dyntechdoo.com>
+Date: Wed, 21 Sep 2016 13:07:33 +0200
+Subject: [PATCH] Revert "second commid"
+
+This reverts commit c0a5197feeca517ae4a05a52acb9206cf82da77e.
+---
+ New Text Document.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/New Text Document.txt b/New Text Document.txt
+index deb4211..428e6d5 100644
+--- a/New Text Document.txt	
++++ b/New Text Document.txt	
+@@ -1 +1 @@
+-mario asdas ds
+\ No newline at end of file
++mario
+\ No newline at end of file
+-- 
+2.6.1.windows.1
+
